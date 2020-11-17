@@ -1,0 +1,44 @@
+body{
+	background-image: url("https://cdn.pixabay.com/photo/2014/09/07/16/53/hands-437968__340.jpg") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	 border:4px 6px 2px 5px;
+	 font-family: 'Montserrat', sans-serif;
+	 background: 3px solid black;
+	color:black;
+
+  
+
+}
+
+.form{
+ 
+ float: right;
+ margin-right: 350px;
+ 
+ padding-right: 20px;
+
+}
+
+
+
+.dir{
+      border:2px solid black;
+      border-radius: 80px black;
+}
+
+#rar {
+	color:black;
+	margin-left: 350px;
+	color: red;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+	color:rgba((102, 0, 255,0.2);
+}
+
+
+
+
